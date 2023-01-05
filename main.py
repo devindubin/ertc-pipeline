@@ -10,7 +10,7 @@ import io
 
 app = Flask(__name__)
 
-@app.route('/upload',methods=['GET','POST'])
+@app.route('/',methods=['GET','POST'])
 def upload_process_pdf():
     if request.method == 'POST':
         doc = request.files.get('file')
@@ -97,7 +97,7 @@ def process_pdf(payroll_files):
         agg_array.append(df1)
 
     for file in agg_array:
-        file.to_csv('payroll_export/output.csv')
+        file.to_csv(f'payroll_export/output-{file.payroll_name}.csv')
 
 
     return "200"
