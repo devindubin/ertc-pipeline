@@ -1,0 +1,44 @@
+{
+    "gov_shutdown_q1_2021":"",
+    "gov_shutdown_q4_2022":"",
+    "gov_shutdown_q1_2022":"",
+    "gov_shutdown_q4_2020":"",
+    "gov_shutdown_q4_2021":"",
+    "gov_shutdown_q1_2020":"Was your business more than nominally affected by a supply chain disruption caused by government shutdown?;Was your business subject to a full or partial shutdown order in this quarter?",
+    "pl_2020":"Q1-12345;Q2-12345;Q3-12345;Q4-12345",
+    "gov_shutdown_q3_2020":"",
+    "gov_shutdown_q3_2022":"",
+    "gov_shutdown_q3_2021":"",
+    "owner_calculation":[
+       
+    ],
+    "hp_contributions":[
+       
+    ],
+    "payroll_documents":[
+       {
+          "docs":[
+             "https://workdrive.zoho.com/file/s0hcp26b485924791475db37e3242ee2ae600"
+          ],
+          "payroll_quarter":"Q1 2020"
+       },
+       {
+          "docs":[
+             "https://workdrive.zoho.com/file/s0hcpe2fbe4717a2a4c56834dd441bebac86d"
+          ],
+          "payroll_quarter":"Q2 2020"
+       }
+    ],
+    "ppp_info":[
+       
+    ],
+    "pl_2021":"Q1-12345;Q2-12345;Q3-12345;Q4-12345",
+    "doc_941":[
+       "https://workdrive.zoho.com/file/s0hcp30f3f5233ff84c91823840fa8ebda7c1"
+    ],
+    "gov_shutdown_q2_2020":"",
+    "gov_shutdown_q2_2021":"",
+    "gov_shutdown_q2_2022":"",
+    "pl_2019":"Q1-12345;Q2-12345;Q3-12345;Q4-12345",
+    "business_name": "ABC Industries"
+ }
